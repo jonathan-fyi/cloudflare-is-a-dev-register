@@ -1,0 +1,11 @@
+{
+  "description": "jonathanfyi's personal developer domain",
+  "repo": "https://github.com/jonathan-fyi",
+  "owner": {
+    "username": "jonathan-fyi",
+    "email": "your@email.com"
+  },
+  "record": {
+    "CNAME": "02123fbd-ff26-4b00-af2a-232b1d823141.cfargotunnel.com"
+  }
+}
